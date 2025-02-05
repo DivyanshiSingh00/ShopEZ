@@ -1,44 +1,43 @@
-## ShopEZ - Smart Supermarket Checkout System 🛒
-# Overview
+# ShopEZ - Smart Supermarket Checkout System 🛒
+## Overview
 ShopEZ is a self-checkout application designed to make grocery shopping seamless. It enables users to scan barcodes, add items to a cart, and complete payments digitally.
 
-# Features
+## Features
 ✅ Barcode scanning for quick item addition
 ✅ Secure login & user authentication
 ✅ Multiple payment options
 ✅ Order history & analytics
 
-# Tech Stack
+## Tech Stack
 Frontend: Flutter (Dart)
 Backend: Firebase / Django (if used)
 Barcode Scanner: Python + OpenCV
 
-# Installation
-Clone the repository:
-sh
-Copy
-Edit
+## Installation
+### **1. Clone the Repository**
+' ```sh
 git clone https://github.com/DivyanshiSingh00/ShopEZ.git
 cd ShopEZ
-Install dependencies:
-sh
-Copy
-Edit
+'
+### **2. Install dependencies:**
+' ```sh
 flutter pub get
 pip install -r requirements.txt  # For Python dependencies
-Run the application:
-sh
-Copy
-Edit
-flutter run
+'
 
-# Usage
+### **3. Run the application:**
+' ```sh
+flutter run
+'
+
+
+## Usage
 Open the app and sign in.
 Use the barcode scanner to add items.
 Review the cart and proceed to checkout.
 Choose a payment method and complete the order.
 
-#Contributing
+## Contributing
 Feel free to submit issues or create pull requests.
 
 # License
