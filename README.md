@@ -15,21 +15,21 @@ Barcode Scanner: Python + OpenCV
 
 ## Installation
 ### **1. Clone the Repository**
-` ```sh
+` ```sh `
 git clone https://github.com/DivyanshiSingh00/ShopEZ.git
 cd ShopEZ
-`
+
 
 ### **2. Install dependencies:**
-` ```sh
+` ```sh `
 flutter pub get
 pip install -r requirements.txt  # For Python dependencies
-`
+
 
 ### **3. Run the application:**
-` ```sh
+` ```sh `
 flutter run
-`
+
 
 
 ## Usage
