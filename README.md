@@ -10,7 +10,7 @@ ShopEZ is a self-checkout application designed to make grocery shopping seamless
 
 ## Tech Stack
 Frontend: Flutter (Dart)
-Backend: Firebase / Django (if used)
+Backend: Firebase / Python
 Barcode Scanner: Python + OpenCV
 
 ## Installation
